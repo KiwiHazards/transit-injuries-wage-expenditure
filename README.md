@@ -40,6 +40,8 @@ The next substantive step is to verify occupational reporting and build a source
 
 ## Use and attribution
 
-This release retains existing rights; no blanket open-source or Creative Commons license is granted. Source data remain subject to their original terms. Cite the repository and release tag when referring to this working snapshot. A DOI will be added if an archival deposit is completed.
+Author: Kruthik Ankam, University of Washington Seattle.
+
+The whitepaper PDF and text are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [the paper license](paper/LICENSE.md). This permission covers the whitepaper, not a blanket license for the code or third-party source data. Cite the repository and release tag when referring to this working snapshot. The [Zenodo whitepaper record](https://doi.org/10.5281/zenodo.23850479) provides a persistent citation.
 
 AI tools assisted the analysis, manuscript drafting, and internal audits. Their checks are not independent human peer review. The original plans and the distinction between planned and exploratory work are preserved.
