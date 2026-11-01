@@ -1,0 +1,23 @@
+{
+ "share_identifying_variation_by_size_quintile": {
+  "Q1 smallest": 0.548,
+  "Q2": 0.18,
+  "Q3": 0.131,
+  "Q4": 0.086,
+  "Q5 largest": 0.055
+ },
+ "share_by_outcome_year": {
+  "2020": 0.168,
+  "2021": 0.23,
+  "2022": 0.188,
+  "2023": 0.148,
+  "2024": 0.266
+ },
+ "agencies_with_variation_by_quintile": {
+  "Q1 smallest": 11,
+  "Q2": 26,
+  "Q3": 47,
+  "Q4": 52,
+  "Q5 largest": 60
+ }
+}

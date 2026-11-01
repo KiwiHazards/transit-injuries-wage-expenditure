@@ -1,0 +1,2 @@
+model,label,n,agencies,years,singleton_rows_removed,nuisance_rank,design_rank,residual_df,inference_df,cr1_correction,partial_r2,predictor_residual_sd,term,estimate,cluster_se,p_two_sided,ci_low,ci_high
+M1,Major-event operator injuries only; exploratory diagnostic,1345,284,"2020,2021,2022,2023,2024",6,288,295,1050,283,1.2845229681978798,0.017684048347732406,0.5692653124551378,lag_major_operator_rate,0.0018168386756525707,0.004770826304759958,0.7036205659856968,-0.007573969582472224,0.011207646933777366

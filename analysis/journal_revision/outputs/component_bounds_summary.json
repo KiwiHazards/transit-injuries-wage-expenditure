@@ -1,0 +1,15 @@
+{
+  "months": 20040,
+  "agency_years": 1670,
+  "gap_months": 639,
+  "gap_agencies": 103,
+  "employee_identity_failures": 0,
+  "bounds_failures": 0,
+  "monthly_operator_total": 7379,
+  "major_operator_total": 6025,
+  "implied_operator_component": 1354,
+  "implied_nonoperator_component": 563,
+  "nonmajor_worker_total": 2977,
+  "unallocated_worker_total": 1060,
+  "interpretation": "A feasibility/bounds check, not a validated person-type reconstruction. The implied components are defined by differences and must not be treated as directly observed occupational injury records."
+}

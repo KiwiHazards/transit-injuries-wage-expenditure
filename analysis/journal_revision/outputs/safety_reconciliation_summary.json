@@ -1,0 +1,11 @@
+{
+  "nonmajor_records": 16713,
+  "agency_years": 1670,
+  "major_only_exact_matches": 1441,
+  "major_plus_nonmajor_worker_exact_matches": 1388,
+  "nonzero_residual_rows": 282,
+  "sum_archived_operator": 7379.0,
+  "sum_major_operator": 6025.0,
+  "sum_nonmajor_workers": 2977.0,
+  "residual_total": -1623.0
+}

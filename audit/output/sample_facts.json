@@ -1,0 +1,177 @@
+{
+ "lag_loss": {
+  "rows": 1670,
+  "report_year_2019_no_prior_in_window": 282,
+  "prior_year_absent_from_screened_panel(not 2019)": 37,
+  "prior_present_but_window_not_exactly_12m_earlier": 0,
+  "exact_pairs": 1351
+ },
+ "size_quintiles_operator_FTE": {
+  "Q1 smallest": {
+   "median_operator_FTE": 13.72,
+   "zero_injury_share": 0.927,
+   "mean_injuries": 0.091,
+   "agencies": 61
+  },
+  "Q2": {
+   "median_operator_FTE": 35.43,
+   "zero_injury_share": 0.833,
+   "mean_injuries": 0.222,
+   "agencies": 61
+  },
+  "Q3": {
+   "median_operator_FTE": 64.977,
+   "zero_injury_share": 0.66,
+   "mean_injuries": 0.517,
+   "agencies": 60
+  },
+  "Q4": {
+   "median_operator_FTE": 131.049,
+   "zero_injury_share": 0.496,
+   "mean_injuries": 1.048,
+   "agencies": 61
+  },
+  "Q5 largest": {
+   "median_operator_FTE": 556.681,
+   "zero_injury_share": 0.078,
+   "mean_injuries": 18.804,
+   "agencies": 61
+  }
+ },
+ "pooled_rate_by_year": {
+  "2019": 0.877,
+  "2020": 0.858,
+  "2021": 1.061,
+  "2022": 1.178,
+  "2023": 1.216,
+  "2024": 1.332
+ },
+ "largest20_rate_range": {
+  "min": 0.2905353696822704,
+  "max": 3.946850587107163,
+  "ratio_max_min": 13.584750770356946
+ },
+ "largest20": [
+  {
+   "ntd_id": "00001",
+   "agency": "King County",
+   "mean_rate": 0.291,
+   "injuries_6y": 50.0
+  },
+  {
+   "ntd_id": "90154",
+   "agency": "Los Angeles County Metropolitan Transportation Authority",
+   "mean_rate": 0.348,
+   "injuries_6y": 124.0
+  },
+  {
+   "ntd_id": "40034",
+   "agency": "County of Miami-Dade",
+   "mean_rate": 0.353,
+   "injuries_6y": 36.0
+  },
+  {
+   "ntd_id": "00008",
+   "agency": "Tri-County Metropolitan Transportation District of Oregon",
+   "mean_rate": 0.381,
+   "injuries_6y": 44.0
+  },
+  {
+   "ntd_id": "60056",
+   "agency": "Dallas Area Rapid Transit",
+   "mean_rate": 0.459,
+   "injuries_6y": 55.0
+  },
+  {
+   "ntd_id": "90014",
+   "agency": "Alameda-Contra Costa Transit District",
+   "mean_rate": 0.557,
+   "injuries_6y": 58.0
+  },
+  {
+   "ntd_id": "50027",
+   "agency": "Metro Transit",
+   "mean_rate": 0.607,
+   "injuries_6y": 63.0
+  },
+  {
+   "ntd_id": "30022",
+   "agency": "Pittsburgh Regional Transit",
+   "mean_rate": 0.609,
+   "injuries_6y": 55.0
+  },
+  {
+   "ntd_id": "50113",
+   "agency": "Pace, the Suburban Bus Division of the Regional Transportation Authority",
+   "mean_rate": 0.649,
+   "injuries_6y": 60.0
+  },
+  {
+   "ntd_id": "90015",
+   "agency": "City and County of San Francisco",
+   "mean_rate": 0.8,
+   "injuries_6y": 77.0
+  },
+  {
+   "ntd_id": "60008",
+   "agency": "Metropolitan Transit Authority of Harris County, Texas",
+   "mean_rate": 1.035,
+   "injuries_6y": 137.0
+  },
+  {
+   "ntd_id": "20080",
+   "agency": "New Jersey Transit Corporation",
+   "mean_rate": 1.075,
+   "injuries_6y": 335.0
+  },
+  {
+   "ntd_id": "30034",
+   "agency": "Maryland Transit Administration",
+   "mean_rate": 1.323,
+   "injuries_6y": 137.0
+  },
+  {
+   "ntd_id": "30030",
+   "agency": "Washington Metropolitan Area Transit Authority",
+   "mean_rate": 1.577,
+   "injuries_6y": 325.0
+  },
+  {
+   "ntd_id": "20008",
+   "agency": "MTA New York City Transit",
+   "mean_rate": 1.824,
+   "injuries_6y": 1295.0
+  },
+  {
+   "ntd_id": "10003",
+   "agency": "Massachusetts Bay Transportation Authority",
+   "mean_rate": 1.99,
+   "injuries_6y": 135.0
+  },
+  {
+   "ntd_id": "20188",
+   "agency": "MTA Bus Company",
+   "mean_rate": 2.639,
+   "injuries_6y": 526.0
+  },
+  {
+   "ntd_id": "30019",
+   "agency": "Southeastern Pennsylvania Transportation Authority",
+   "mean_rate": 2.698,
+   "injuries_6y": 623.0
+  },
+  {
+   "ntd_id": "40022",
+   "agency": "Metropolitan Atlanta Rapid Transit Authority",
+   "mean_rate": 2.735,
+   "injuries_6y": 328.0
+  },
+  {
+   "ntd_id": "50066",
+   "agency": "Chicago Transit Authority",
+   "mean_rate": 3.947,
+   "injuries_6y": 1020.0
+  }
+ ],
+ "share_of_total_injuries_from_top10_agencies": 0.6193251118037675
+}

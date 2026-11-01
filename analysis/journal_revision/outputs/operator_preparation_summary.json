@@ -1,0 +1,8 @@
+{
+  "base_rows": 1670,
+  "matched": 1670,
+  "valid": 1670,
+  "lag_eligible": 1351,
+  "maximum_raw_summary_difference": 0.0,
+  "extension_plan_sha256": "9703ae7ccf77c18839384a585fa0453db33237e492bd6181894433fc1c9979b9"
+}

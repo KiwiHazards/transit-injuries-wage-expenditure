@@ -1,0 +1,11 @@
+{
+  "python": "3.12.6",
+  "packages": {
+    "numpy": "2.1.1",
+    "pandas": "2.2.3",
+    "scipy": "1.14.1",
+    "matplotlib": "3.9.2"
+  },
+  "verification_date": "2026-10-31",
+  "scope": "Headline estimation and weighted diagnostic from published panels; not a raw-input rebuild."
+}

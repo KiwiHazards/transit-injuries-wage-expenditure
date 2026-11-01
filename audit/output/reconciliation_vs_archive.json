@@ -1,0 +1,87 @@
+{
+  "rebuilt_rows": 1670,
+  "rebuilt_agencies": 304,
+  "archived_rows": 1670,
+  "archived_agencies": 304,
+  "rows_in_both": 1670,
+  "only_rebuilt": [],
+  "only_archived": [],
+  "rebuilt_exact_lag_pairs": 1351,
+  "cpi_2024_reference": 313.6888333333333,
+  "expense_duplicate_keys_mbdo": 12,
+  "monthly_duplicate_mbdo_rows": 0,
+  "variable_diffs": {
+    "operating_hours_r": {
+      "archived_col": "operating_hours",
+      "max_abs_diff": 0.0,
+      "rows_diff_gt_1e-6": 0,
+      "rows_nan_mismatch": 0
+    },
+    "operator_hours_r": {
+      "archived_col": "operator_hours",
+      "max_abs_diff": 0.0,
+      "rows_diff_gt_1e-6": 0,
+      "rows_nan_mismatch": 0
+    },
+    "operating_wages": {
+      "archived_col": "operating_wages",
+      "max_abs_diff": 0.0,
+      "rows_diff_gt_1e-6": 0,
+      "rows_nan_mismatch": 0
+    },
+    "operator_injuries_fy": {
+      "archived_col": "operator_injuries_fy",
+      "max_abs_diff": 0.0,
+      "rows_diff_gt_1e-6": 0,
+      "rows_nan_mismatch": 0
+    },
+    "vehicle_revenue_hours_fy": {
+      "archived_col": "vehicle_revenue_hours_fy",
+      "max_abs_diff": 0.0,
+      "rows_diff_gt_1e-6": 0,
+      "rows_nan_mismatch": 0
+    },
+    "log_real_wage": {
+      "archived_col": "log_real_wage",
+      "max_abs_diff": 8.370348858477428e-10,
+      "rows_diff_gt_1e-6": 0,
+      "rows_nan_mismatch": 0
+    },
+    "log_real_op_wage": {
+      "archived_col": "op_log_real_wage",
+      "max_abs_diff": 3.1195623861890454e-10,
+      "rows_diff_gt_1e-6": 0,
+      "rows_nan_mismatch": 0
+    },
+    "inj_rate": {
+      "archived_col": "injury_rate",
+      "max_abs_diff": 4.994460289786673e-09,
+      "rows_diff_gt_1e-6": 0,
+      "rows_nan_mismatch": 0
+    },
+    "log_real_state_wage": {
+      "archived_col": "log_real_market_wage",
+      "max_abs_diff": 4.98941332693903e-10,
+      "rows_diff_gt_1e-6": 0,
+      "rows_nan_mismatch": 0
+    },
+    "parttime_share": {
+      "archived_col": "parttime_hour_share",
+      "max_abs_diff": 4.9864973261648515e-11,
+      "rows_diff_gt_1e-6": 0,
+      "rows_nan_mismatch": 0
+    },
+    "cpi_fy": {
+      "archived_col": "cpi_fy",
+      "max_abs_diff": 3.3333378723909846e-08,
+      "rows_diff_gt_1e-6": 0,
+      "rows_nan_mismatch": 0
+    },
+    "log_real_comp": {
+      "archived_col": "log_real_compensation",
+      "max_abs_diff": 6.636087235278865e-10,
+      "rows_diff_gt_1e-6": 0,
+      "rows_nan_mismatch": 0
+    }
+  }
+}

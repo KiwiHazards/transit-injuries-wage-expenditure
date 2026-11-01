@@ -1,0 +1,130 @@
+{
+ "O1_weighted": {
+  "b": -0.019265908497887504,
+  "se": 0.008348403605668566,
+  "p": 0.021735256876126364,
+  "N": 1345
+ },
+ "P1_weighted": {
+  "b": -0.010419588479605188,
+  "se": 0.006024499632307199,
+  "p": 0.08480360381433784,
+  "N": 1345
+ },
+ "O1_weighted_same_year_rate": {
+  "b": -0.017933053904336183,
+  "se": 0.008190706022413423,
+  "p": 0.02938151997932876
+ },
+ "O1_weighted_LOO_15_largest": [
+  {
+   "dropped": "20008",
+   "agency": "MTA New York City Transit",
+   "mean_vrh": 11799309.666666666,
+   "b": -0.01751274325742077,
+   "p": 0.045491893221469654
+  },
+  {
+   "dropped": "90154",
+   "agency": "Los Angeles County Metropolitan Transportation Authority",
+   "mean_vrh": 5824718.333333333,
+   "b": -0.019752684495703877,
+   "p": 0.021536770248433985
+  },
+  {
+   "dropped": "50066",
+   "agency": "Chicago Transit Authority",
+   "mean_vrh": 5170738.0,
+   "b": -0.017972766157410315,
+   "p": 0.036262965596700086
+  },
+  {
+   "dropped": "20080",
+   "agency": "New Jersey Transit Corporation",
+   "mean_vrh": 5092572.5,
+   "b": -0.02045724654809812,
+   "p": 0.015383997828798538
+  },
+  {
+   "dropped": "30019",
+   "agency": "Southeastern Pennsylvania Transportation Authority",
+   "mean_vrh": 3855082.5,
+   "b": -0.01883262364432576,
+   "p": 0.025577167212613303
+  },
+  {
+   "dropped": "30030",
+   "agency": "Washington Metropolitan Area Transit Authority",
+   "mean_vrh": 3471638.6666666665,
+   "b": -0.01684942829118733,
+   "p": 0.03753019274946996
+  },
+  {
+   "dropped": "20188",
+   "agency": "MTA Bus Company",
+   "mean_vrh": 3316949.5,
+   "b": -0.01940199401483229,
+   "p": 0.024756437825455405
+  },
+  {
+   "dropped": "00001",
+   "agency": "King County",
+   "mean_vrh": 2908041.0,
+   "b": -0.019102539114859655,
+   "p": 0.022953379441323335
+  },
+  {
+   "dropped": "10003",
+   "agency": "Massachusetts Bay Transportation Authority",
+   "mean_vrh": 2279131.0,
+   "b": -0.019265908497887504,
+   "p": 0.021735256876126364
+  },
+  {
+   "dropped": "60008",
+   "agency": "Metropolitan Transit Authority of Harris County, Texas",
+   "mean_vrh": 2195140.8333333335,
+   "b": -0.01912083925206316,
+   "p": 0.02186564797538571
+  },
+  {
+   "dropped": "40022",
+   "agency": "Metropolitan Atlanta Rapid Transit Authority",
+   "mean_vrh": 2059714.6666666667,
+   "b": -0.014316306632201894,
+   "p": 0.0558289525992504
+  },
+  {
+   "dropped": "60056",
+   "agency": "Dallas Area Rapid Transit",
+   "mean_vrh": 1992287.6666666667,
+   "b": -0.018721155108351022,
+   "p": 0.025286950683518453
+  },
+  {
+   "dropped": "00008",
+   "agency": "Tri-County Metropolitan Transportation District of Oregon",
+   "mean_vrh": 1914964.5,
+   "b": -0.01913518198018724,
+   "p": 0.023216689483327137
+  },
+  {
+   "dropped": "30034",
+   "agency": "Maryland Transit Administration",
+   "mean_vrh": 1744912.6666666667,
+   "b": -0.016989329738580763,
+   "p": 0.04678431408813435
+  },
+  {
+   "dropped": "40034",
+   "agency": "County of Miami-Dade",
+   "mean_vrh": 1701774.6666666667,
+   "b": -0.019853017980743876,
+   "p": 0.01818243804387957
+  }
+ ],
+ "weight_share_top5": 0.2748262489011987,
+ "weight_share_top1": {
+  "MTA New York City Transit": 0.10627672589418918
+ }
+}

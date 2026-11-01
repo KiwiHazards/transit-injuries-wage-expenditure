@@ -1,0 +1,21 @@
+{
+  "C1": {
+    "estimate": -0.00014899388501366453,
+    "cluster_se": 0.004118312774948921,
+    "n": 1345,
+    "agencies": 284
+  },
+  "O1": {
+    "estimate": -0.0009170836445824703,
+    "cluster_se": 0.004468766453958959,
+    "n": 1345,
+    "agencies": 284
+  },
+  "O1_weighted": {
+    "b": -0.019265908497887504,
+    "se": 0.008348403605668566,
+    "p": 0.02173525687612635,
+    "N": 1345.0
+  },
+  "scope": "Estimation from released processed panels; no raw-source rebuild."
+}
